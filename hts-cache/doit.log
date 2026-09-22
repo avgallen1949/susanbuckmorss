@@ -1,0 +1,8 @@
+-q -%i -w https://www.susanbuckmorss.info/ -O "\"/Users/avrieallen/websites/Susan\"" -n -%P -N0 -s2 -p3 -D -a -K0 -c3 -%k -r5 -%e0 -A100000 -F "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" -%F "<!-- Mirrored from {url} by HTTrack Website Copier/3.x [XR&CO], {date} -->" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -+*.css +*.js +*.png +*.svg +*.webp +*.pdf +*.woff +*.woff2 -u1 -%s -%u -f2 -%I0 -%f
+File generated automatically on Tue, 22 Sep 2026 09:17:47, do NOT edit
+
+To update a mirror, just launch httrack without any parameters
+The existing cache will be used (and modified)
+To have other options, retype all parameters and launch HTTrack
+To continue an interrupted mirror, just launch httrack without any parameters
+
