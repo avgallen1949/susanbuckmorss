@@ -1,4 +1,0 @@
-# HTTrack Website Copier Cookie File
-# This file format is compatible with Netscape cookies
-www.susanbuckmorss.info	TRUE	/	FALSE	1999999999	DIRECTUS	da5c8087afc0d1c8f1624a507ea27187
-
